@@ -1,0 +1,75 @@
+/* Color Palette
+# -  white #f7f7f7 
+# -  black #1f1f1f 
+# -  grey  #848484 
+
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+   font-family: 'Roboto', sans-serif;
+   color: #f7f7f7;
+   background-color: #1f1f1f;
+}
+
+
+/* Header & Footer 
+------------------------------------*/
+header{
+    background-color: #1f1f1f;
+    color: #f7f7f7;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+header img{
+    width: 200px;
+    height: auto;
+
+}
+
+h1{
+    font-size: 42px;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+footer{
+    background-color: #f7f7f7;
+    color: #1f1f1f;
+    text-align: center;
+    border-style: double;
+
+}
+
+
+/* Work Experience
+------------------------------------*/
+
+main section:first-child{
+    color: #1f1f1f;
+    background-color: #f7f7f7;
+    border-style: double;
+    border-color: #848484;
+
+}
+
+
+
+
+/* Education
+------------------------------------*/
+
+main section:last-child{
+    color: #1f1f1f;
+    background-color: #f7f7f7;
+    border-style: double;
+    border-color: #848484;
+    
+
+}
